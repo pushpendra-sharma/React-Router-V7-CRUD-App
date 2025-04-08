@@ -16,7 +16,7 @@
   <h3 align="center">Build a Robust CRUD App with React Router V7 & Supabase</h3>
   <div align="center">
     Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/your-video-id" target="_blank"><b>YouTube</b></a>
+    <a href="https://youtu.be/waI5CDisiuM" target="_blank"><b>YouTube</b></a>
   </div>
   <br />
 </div>
@@ -274,18 +274,4 @@ export default function Item({ loaderData, actionData }: any) {
 }
 ```
 
-## 🎨 Assets & More
-
-- **Banner Image:**  
-  Replace `./banner.png` with your project's banner image for display on YouTube or GitHub.
-
-- **High-Quality Images & Icons:**  
-  Use images from sites like [Unsplash](https://unsplash.com) or [Pexels](https://pexels.com) to give your project a professional look.
-
-- **Additional CSS:**  
-  Customize your global CSS (e.g., in `index.css`) to adjust themes, gradients, and responsive styles.
-
----
-
 Feel free to customize this README further to better match your project and presentation. Happy coding and enjoy building your Supabase CRUD app with React Router V7!
-```
